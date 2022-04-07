@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>HTML-CSS-Project-main</title>
+  <link rel="stylesheet" href="mystyle.css">
+   <style>
+      html{height: 100%;}
+      <link rel="stylesheet" href="index.html">
+</head>
+body
+{
+
+background: transparent url(background-image.png) ;
+opacity: 1;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-size: fixed;
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  min-width: 100%;
+  min-height: 100%;
+
+}
+<body>
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label>
+  <i><input type="text" id="fname" name="fname"><br><br></i>
+  <label for="lname">Last name:</label>
+  <i><input type="text" id="lname" name="lname"><br><br></i>
+  <i><input type="send" value="Send"><i>
+</form>
+
+    </head>
+      </body>
+      </html>
